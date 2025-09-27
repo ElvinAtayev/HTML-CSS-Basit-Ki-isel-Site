@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Benim Sitem</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hoş Geldiniz!</h1>
+  <p>Bu benim basit web sayfam.</p>
+</body>
+</html>
